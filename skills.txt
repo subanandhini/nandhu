@@ -1,0 +1,24 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+#pic{
+position:relative;
+width:100%;
+height:400px;
+background-attachment: fixed;
+}
+</head>
+<body><p><h1>personal skills</h1>
+Communication.<br>
+Ability to Work Under Pressure.<br>
+Decision Making.<br>
+Time Management.<br>
+Self-motivation.<br>
+Conflict Resolution.<br>
+Leadership.<br>
+Adaptability.<br>
+Simply being a women </p> 
+<img id="pic" src="skillimg.jpg" >
+<p><h1></h1>
+</body>
+</html>
