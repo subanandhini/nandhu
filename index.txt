@@ -1,7 +1,0 @@
-<!DOCTYPE HTML>
-<html>
-<head></head>
-<body>
-<img src="images.jpg" alt="computer">
-</body>
-</html>
